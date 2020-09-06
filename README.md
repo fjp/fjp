@@ -4,9 +4,9 @@
 
 - 🌱 I’m currently learning ROS:
 
-| rqt_turtle                          | turtle_pong                          |
-|:-----------------------------------:|:------------------------------------:|
-| [![rqt_turtle](https://raw.githubusercontent.com/fjp/rqt-turtle/master/docs/rqt_turtle.gif)](https://github.com/fjp/rqt-turtle)  | [![ros_turtle_pong](https://raw.githubusercontent.com/fjp/ros-turtle-pong/master/docs/turtle_pong.gif)](https://github.com/fjp/ros-turtle-pong) |
+| rqt_turtle                          | turtle_pong                          | diffbot  |
+|:-----------------------------------:|:------------------------------------:|:--------:|
+| [![rqt_turtle](https://raw.githubusercontent.com/fjp/rqt-turtle/master/docs/rqt_turtle.gif)](https://github.com/fjp/rqt-turtle)  | [![ros_turtle_pong](https://raw.githubusercontent.com/fjp/ros-turtle-pong/master/docs/turtle_pong.gif)](https://github.com/fjp/ros-turtle-pong) | [<img src="https://raw.githubusercontent.com/fjp/fjp.github.io/master/assets/collections/diffbot/assembly/board-plate/03-board-plate-front-left.jpg" width="700">](https://fjp.at/projects/diffbot/) |
 
 
 - 📫 How to reach me: 
