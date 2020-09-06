@@ -1,7 +1,6 @@
 ### Hi there, my name is Franz 👋
 
 - 🔭 I’m currently working on machine vision projects using deep learning at [Oculytics](https://oculytics.com/).
-
 - 🌱 I’m currently learning ROS:
 
 | rqt_turtle                          | turtle_pong                          | diffbot  |
