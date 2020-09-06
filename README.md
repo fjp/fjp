@@ -14,8 +14,8 @@
   ![Twitter Follow](https://img.shields.io/twitter/follow/franzpucher?label=Follow)
   [![Linkedin: franzpucher](https://img.shields.io/badge/-franzpucher-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/franzpucher/)](https://www.linkedin.com/in/franzpucher/)
   ![GitHub followers](https://img.shields.io/github/followers/fjp?label=Follow&style=social)
-  ![](https://visitor-badge.glitch.me/badge?page_id=fjp.fjp)
   
+![](https://visitor-badge.glitch.me/badge?page_id=fjp.fjp)
 
 <!--
 **fjp/fjp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
