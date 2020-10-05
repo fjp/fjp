@@ -9,7 +9,7 @@
 
 | rqt_turtle                          | turtle_pong                          | 
 |:-----------------------------------:|:------------------------------------:|
-| [![rqt_turtle](https://github.com/fjp/rqt-turtle/blob/master/docs/rqt_turtle-draw-image-multi.gif)](https://github.com/fjp/rqt-turtle)  | [![ros_turtle_pong](https://raw.githubusercontent.com/fjp/ros-turtle-pong/master/docs/turtle_pong.gif)](https://github.com/fjp/ros-turtle-pong) |
+| [<img src="https://github.com/fjp/rqt-turtle/blob/master/docs/rqt_turtle-draw-image-multi.gif" width="800">](https://github.com/fjp/rqt-turtle)  | [![ros_turtle_pong](https://raw.githubusercontent.com/fjp/ros-turtle-pong/master/docs/turtle_pong.gif)](https://github.com/fjp/ros-turtle-pong) |
 
 
 - 📫 How to reach me: 
