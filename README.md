@@ -3,9 +3,13 @@
 - 🔭 I’m currently working on machine vision projects using deep learning at [Oculytics](https://oculytics.com/).
 - 🌱 I’m currently learning ROS:
 
-| rqt_turtle                          | turtle_pong                          | diffbot  |
-|:-----------------------------------:|:------------------------------------:|:--------:|
-| [![rqt_turtle](https://raw.githubusercontent.com/fjp/rqt-turtle/master/docs/rqt_turtle.gif)](https://github.com/fjp/rqt-turtle)  | [![ros_turtle_pong](https://raw.githubusercontent.com/fjp/ros-turtle-pong/master/docs/turtle_pong.gif)](https://github.com/fjp/ros-turtle-pong) | [<img src="https://raw.githubusercontent.com/fjp/fjp.github.io/master/assets/collections/diffbot/assembly/board-plate/03-board-plate-front-left.jpg" width="700">](https://fjp.at/projects/diffbot/) |
+| DiffBot | Gazebo Simulation | RViz |
+|:-------:|:-----------------:|:----:|
+|  [<img src="https://raw.githubusercontent.com/fjp/fjp.github.io/master/assets/collections/diffbot/assembly/board-plate/03-board-plate-front-left.jpg" width="700">](https://fjp.at/projects/diffbot/) | [<img src="https://github.com/fjp/diffbot/blob/master/docs/resources/gazebo/diffbot.png" width="700">](https://fjp.at/projects/diffbot/) | [<img src="https://github.com/fjp/diffbot/blob/master/docs/resources/rviz_diffbot_meshes.png?raw=true" width="700">](https://fjp.at/projects/diffbot/) |
+
+| rqt_turtle                          | turtle_pong                          | 
+|:-----------------------------------:|:------------------------------------:|
+| [![rqt_turtle](https://raw.githubusercontent.com/fjp/rqt-turtle/master/docs/rqt_turtle.gif)](https://github.com/fjp/rqt-turtle)  | [![ros_turtle_pong](https://raw.githubusercontent.com/fjp/ros-turtle-pong/master/docs/turtle_pong.gif)](https://github.com/fjp/ros-turtle-pong) |
 
 
 - 📫 How to reach me: 
