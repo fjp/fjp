@@ -5,7 +5,7 @@
 
 | DiffBot | Gazebo Simulation | RViz |
 |:-------:|:-----------------:|:----:|
-|  [<img src="https://raw.githubusercontent.com/fjp/fjp.github.io/master/assets/collections/diffbot/assembly/board-plate/03-board-plate-front-left.jpg" width="700">](https://fjp.at/projects/diffbot/) | [<img src="https://github.com/fjp/diffbot/blob/master/docs/resources/gazebo/diffbot.png" width="700">](https://fjp.at/projects/diffbot/) | [<img src="https://github.com/fjp/diffbot/blob/master/docs/resources/rviz_diffbot_meshes.png?raw=true" width="700">](https://fjp.at/projects/diffbot/) |
+|  [<img src="https://raw.githubusercontent.com/fjp/diffbot/master/docs/resources/diffbot/diffbot-front.png" width="700">](https://fjp.at/projects/diffbot/) | [<img src="https://github.com/fjp/diffbot/blob/master/docs/resources/gazebo/diffbot.png" width="700">](https://fjp.at/projects/diffbot/) | [<img src="https://github.com/fjp/diffbot/blob/master/docs/resources/rviz_diffbot_meshes.png?raw=true" width="700">](https://fjp.at/projects/diffbot/) |
 
 | rqt_turtle                          | turtle_pong                          | 
 |:-----------------------------------:|:------------------------------------:|
