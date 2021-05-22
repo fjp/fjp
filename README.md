@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on machine vision projects using deep learning at [Oculytics](https://oculytics.com/).
 - 🌱 I’m currently learning ROS:
 
-| DiffBot [![image](https://img.shields.io/github/stars/ros-mobile-robots/diffbot?style=social)](https://github.com/fjp/diffbot) | Gazebo Simulation | RViz |
+| DiffBot [![image](https://img.shields.io/github/stars/ros-mobile-robots/diffbot?style=social)](https://github.com/ros-mobile-robots/diffbot) | Gazebo Simulation | RViz |
 |:-------:|:-----------------:|:----:|
 |  [<img src="https://raw.githubusercontent.com/ros-mobile-robots/ros-mobile-robots.github.io/main/docs/resources/diffbot/diffbot-front.png" width="700">](https://youtu.be/IcYkQyzUqik) | [<img src="https://raw.githubusercontent.com/ros-mobile-robots/ros-mobile-robots.github.io/main/docs/resources/gazebo/diffbot.png" width="700">](https://github.com/fjp/diffbot) | [<img src="https://raw.githubusercontent.com/ros-mobile-robots/ros-mobile-robots.github.io/main/docs/resources/rviz_diffbot_meshes.png?raw=true" width="700">](https://github.com/fjp/diffbot) |
 
