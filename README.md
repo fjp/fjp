@@ -5,7 +5,7 @@
 
 | DiffBot [![image](https://img.shields.io/github/stars/ros-mobile-robots/diffbot?style=social)](https://github.com/ros-mobile-robots/diffbot) | Gazebo Simulation | RViz |
 |:-------:|:-----------------:|:----:|
-|  [<img src="https://raw.githubusercontent.com/ros-mobile-robots/ros-mobile-robots.github.io/main/docs/resources/diffbot/diffbot-front.png" width="700">](https://youtu.be/IcYkQyzUqik) | [<img src="https://raw.githubusercontent.com/ros-mobile-robots/ros-mobile-robots.github.io/main/docs/resources/gazebo/diffbot.png" width="700">](https://github.com/fjp/diffbot) | [<img src="https://raw.githubusercontent.com/ros-mobile-robots/ros-mobile-robots.github.io/main/docs/resources/rviz_diffbot_meshes.png?raw=true" width="700">](https://github.com/fjp/diffbot) |
+|  [<img src="https://raw.githubusercontent.com/ros-mobile-robots/ros-mobile-robots.github.io/main/docs/resources/remo/remo_front_side.jpg" width="700">](https://youtu.be/IcYkQyzUqik) | [<img src="https://raw.githubusercontent.com/ros-mobile-robots/ros-mobile-robots.github.io/main/docs/resources/remo/remo-gazebo.png" width="700">](https://github.com/fjp/diffbot) | [<img src="https://raw.githubusercontent.com/ros-mobile-robots/ros-mobile-robots.github.io/main/docs/resources/remo/camera_types/oak-d.png?raw=true" width="700">](https://github.com/ros-mobile-robots/diffbot) |
 
 | rqt_turtle                          | turtle_pong                          | 
 |:-----------------------------------:|:------------------------------------:|
