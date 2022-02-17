@@ -1,7 +1,9 @@
 ### Hi there, my name is Franz 👋
 
-- 🔭 I’m currently working on machine vision projects using deep learning at [Oculytics](https://oculytics.com/).
-- 🌱 I’m currently learning ROS:
+- 📷 I am currently working at [Leica Geosystems](https://leica-geosystems.com/) part of [Hexagon](https://hexagon.com/) where I develop software for 3D laser scanners.
+- 🔭 I’ve worked on machine vision projects using deep learning at [Oculytics](https://oculytics.com/).
+- 🚗 I've experience with trajectory planning as well as algorithms for self-driving vehicles.
+- 🌱 I’m currently improving my ROS skills with the following projects:
 
 | DiffBot [![image](https://img.shields.io/github/stars/ros-mobile-robots/diffbot?style=social)](https://github.com/ros-mobile-robots/diffbot) | Gazebo Simulation | RViz |
 |:-------:|:-----------------:|:----:|
