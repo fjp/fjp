@@ -3,7 +3,8 @@
 - 📷 I am currently working at [Leica Geosystems AG](https://leica-geosystems.com/) part of [Hexagon](https://hexagon.com/) where I develop software for 3D laser scanners.
 - 🔭 I’ve worked on machine vision projects using deep learning at [Oculytics](https://oculytics.com/).
 - 🚗 I've experience with trajectory planning as well as algorithms for self-driving vehicles.
-- 🌱 I’m currently improving my ROS skills with the following projects:
+- 🌱 I’m currently improving my [home automation](https://fjp.at/projects/home-automation/) skills by constructing a house based on the KNX bus
+- 🤖 I’m into robotics development using ROS:
 
 | DiffBot [![image](https://img.shields.io/github/stars/ros-mobile-robots/diffbot?style=social)](https://github.com/ros-mobile-robots/diffbot) | Gazebo Simulation | RViz |
 |:-------:|:-----------------:|:----:|
